@@ -1,0 +1,153 @@
+{
+  "omaxe": [
+    {
+      "id": "omaxe-world-street",
+      "name": "Omaxe World Street",
+      "location": "Sector-79, Faridabad",
+      "type": "Commercial",
+      "status": "Under Construction",
+      "priceRange": "₹70L - ₹8CR",
+      "description": "SCO Floors & Shops",
+      "image": "/placeholder.svg?height=250&width=400",
+      "features": ["SCO Floors: ₹70L - ₹8CR", "Shops: ₹50L - ₹2CR"]
+    },
+    {
+      "id": "omaxe-hills-forest-spa",
+      "name": "Omaxe Hills & Forest Spa",
+      "location": "Sector-43, Faridabad",
+      "type": "Residential",
+      "status": "Ready to Move",
+      "priceRange": "₹1CR - ₹2CR",
+      "description": "Premium Forest Hill Residences",
+      "image": "/placeholder.svg?height=250&width=400",
+      "features": ["Forest Hill: ₹1CR - ₹2CR"]
+    },
+    {
+      "id": "omaxe-heights",
+      "name": "Omaxe Heights",
+      "location": "Sector-86, Faridabad",
+      "type": "Residential",
+      "status": "Under Construction",
+      "priceRange": "₹35L - ₹2CR",
+      "description": "Modern Flats & Floors",
+      "image": "/placeholder.svg?height=250&width=400",
+      "features": ["Flats: ₹35L - ₹60L", "Floors: ₹75L - ₹2CR"]
+    },
+    {
+      "id": "omaxe-new-heights",
+      "name": "Omaxe New Heights",
+      "location": "Sector-78, Faridabad",
+      "type": "Residential",
+      "status": "Ready to Move",
+      "priceRange": "₹50L - ₹1.75CR",
+      "description": "Contemporary Living Spaces",
+      "image": "/placeholder.svg?height=250&width=400",
+      "features": ["Range: ₹50L - ₹1.75CR"]
+    }
+  ],
+  "bptp": [
+    {
+      "id": "bptp-parkland-plots",
+      "name": "BPTP Parkland Plots",
+      "location": "Faridabad",
+      "type": "Residential Plots",
+      "status": "Ready to Move",
+      "priceRange": "₹1.5CR - ₹7CR",
+      "description": "Premium Residential Plots",
+      "image": "/placeholder.svg?height=250&width=400",
+      "features": ["Plot Size Varies", "Gated Community"]
+    },
+    {
+      "id": "bptp-parkland-pride-floors",
+      "name": "BPTP Parkland Pride Floors",
+      "location": "Faridabad",
+      "type": "Residential",
+      "status": "Under Construction",
+      "priceRange": "₹1CR - ₹2.5CR",
+      "description": "Luxury Independent Floors",
+      "image": "/placeholder.svg?height=250&width=400",
+      "features": ["Independent Floors", "Modern Amenities"]
+    },
+    {
+      "id": "bptp-commercial-sco",
+      "name": "BPTP Commercial SCOs",
+      "location": "Faridabad",
+      "type": "Commercial",
+      "status": "Ready to Move",
+      "priceRange": "₹1CR - ₹4CR",
+      "description": "Shop Cum Office Spaces",
+      "image": "/placeholder.svg?height=250&width=400",
+      "features": ["SCO Floors", "Prime Location"]
+    },
+    {
+      "id": "bptp-next-deck",
+      "name": "BPTP Next The Deck & Discovery Park",
+      "location": "Faridabad",
+      "type": "Mixed Use",
+      "status": "Under Construction",
+      "priceRange": "₹4.80CR",
+      "description": "Premium Mixed Development",
+      "image": "/placeholder.svg?height=250&width=400",
+      "features": ["Premium Location", "Integrated Development"]
+    }
+  ],
+  "capital": [
+    {
+      "id": "capital-central-market",
+      "name": "Capital Central Market SCO Floors",
+      "location": "Faridabad",
+      "type": "Commercial",
+      "status": "Ready to Move",
+      "priceRange": "₹1.5CR - ₹7CR",
+      "description": "Central Market Commercial Spaces",
+      "image": "/placeholder.svg?height=250&width=400",
+      "features": ["SCO Floors", "Central Location"]
+    }
+  ],
+  "mansha": [
+    {
+      "id": "mansha-orchid",
+      "name": "Mansha Orchid",
+      "location": "Sector-110, Faridabad",
+      "type": "Residential Plots",
+      "status": "Ready to Move",
+      "priceRange": "₹7,500/sq.yd",
+      "description": "Premium Residential Plots",
+      "image": "/placeholder.svg?height=250&width=400",
+      "features": ["Rate: ₹7,500/sq.yd", "Developed Plots"]
+    },
+    {
+      "id": "mansha-oak",
+      "name": "Mansha Oak",
+      "location": "Sector-98, Faridabad",
+      "type": "Residential Plots",
+      "status": "Ready to Move",
+      "priceRange": "₹9,000/sq.yd",
+      "description": "Premium Oak Residences",
+      "image": "/placeholder.svg?height=250&width=400",
+      "features": ["Rate: ₹9,000/sq.yd", "Premium Location"]
+    },
+    {
+      "id": "mansha-vegas-mall",
+      "name": "Mansha VEGAS MALL Floors",
+      "location": "Sector-82, Faridabad",
+      "type": "Commercial",
+      "status": "Ready to Move",
+      "priceRange": "₹1.5CR - ₹7CR",
+      "description": "Mall Connected Floors",
+      "image": "/placeholder.svg?height=250&width=400",
+      "features": ["Mall Connected", "High Footfall Area"]
+    },
+    {
+      "id": "mansha-upcoming",
+      "name": "Mansha Upcoming Project",
+      "location": "Faridabad",
+      "type": "Residential Plots",
+      "status": "Under Construction",
+      "priceRange": "₹75,000/sq.yd",
+      "description": "Ultra Premium Development",
+      "image": "/placeholder.svg?height=250&width=400",
+      "features": ["Rate: ₹75,000/sq.yd", "Ultra Premium"]
+    }
+  ]
+}

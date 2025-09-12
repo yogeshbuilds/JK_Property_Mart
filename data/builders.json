@@ -1,0 +1,40 @@
+{
+  "builders": [
+    {
+      "id": "omaxe",
+      "name": "Omaxe Ltd",
+      "location": "Faridabad",
+      "logo": "/omaxe.png",
+      "description": "Leading real estate developer with premium projects",
+      "established": "1987",
+      "projects": 4
+    },
+    {
+      "id": "bptp",
+      "name": "BPTP Ltd",
+      "location": "Faridabad",
+      "logo": "/bptp.jpg",
+      "description": "Innovative residential and commercial developments",
+      "established": "2001",
+      "projects": 4
+    },
+    {
+      "id": "capital",
+      "name": "Capital Construct Group",
+      "location": "Faridabad",
+      "logo": "/capital.png",
+      "description": "Quality construction and commercial spaces",
+      "established": "2005",
+      "projects": 1
+    },
+    {
+      "id": "mansha",
+      "name": "Mansha Group",
+      "location": "Faridabad",
+      "logo": "/mansha.jpg",
+      "description": "Premium residential and commercial developments",
+      "established": "2010",
+      "projects": 4
+    }
+  ]
+}
