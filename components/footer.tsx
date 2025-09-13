@@ -100,7 +100,7 @@ export function Footer() {
         </div>
 
         <div className="border-t border-primary-foreground/20 mt-8 pt-8 text-center text-sm opacity-80">
-          <p>&copy; 2024 JK Property Mart. All rights reserved. | Privacy Policy | Terms of Service</p>
+          <p>&copy; 2025 JK Property Mart. All rights reserved. | Privacy Policy | Terms of Service</p>
           <p className="mt-2">
             Developed and maintained by{" "}
             <a

@@ -8,7 +8,7 @@
       "status": "Under Construction",
       "priceRange": "₹70L - ₹8CR",
       "description": "SCO Floors & Shops",
-      "image": "/placeholder.svg?height=250&width=400",
+      "image": "/omaxe-world.jpg",
       "features": ["SCO Floors: ₹70L - ₹8CR", "Shops: ₹50L - ₹2CR"]
     },
     {
@@ -19,7 +19,7 @@
       "status": "Ready to Move",
       "priceRange": "₹1CR - ₹2CR",
       "description": "Premium Forest Hill Residences",
-      "image": "/placeholder.svg?height=250&width=400",
+      "image": "/Omaxe-Hills-Forest.jpg",
       "features": ["Forest Hill: ₹1CR - ₹2CR"]
     },
     {
@@ -30,7 +30,7 @@
       "status": "Under Construction",
       "priceRange": "₹35L - ₹2CR",
       "description": "Modern Flats & Floors",
-      "image": "/placeholder.svg?height=250&width=400",
+      "image": "/Omaxe-Heights.jpg",
       "features": ["Flats: ₹35L - ₹60L", "Floors: ₹75L - ₹2CR"]
     },
     {
@@ -41,7 +41,7 @@
       "status": "Ready to Move",
       "priceRange": "₹50L - ₹1.75CR",
       "description": "Contemporary Living Spaces",
-      "image": "/placeholder.svg?height=250&width=400",
+      "image": "/Omaxe-new-heights.png",
       "features": ["Range: ₹50L - ₹1.75CR"]
     }
   ],
@@ -54,7 +54,7 @@
       "status": "Ready to Move",
       "priceRange": "₹1.5CR - ₹7CR",
       "description": "Premium Residential Plots",
-      "image": "/placeholder.svg?height=250&width=400",
+      "image": "/bptp-plots.jpg",
       "features": ["Plot Size Varies", "Gated Community"]
     },
     {
@@ -65,7 +65,7 @@
       "status": "Under Construction",
       "priceRange": "₹1CR - ₹2.5CR",
       "description": "Luxury Independent Floors",
-      "image": "/placeholder.svg?height=250&width=400",
+      "image": "/BPTP-Parkland.jpg",
       "features": ["Independent Floors", "Modern Amenities"]
     },
     {
@@ -76,7 +76,7 @@
       "status": "Ready to Move",
       "priceRange": "₹1CR - ₹4CR",
       "description": "Shop Cum Office Spaces",
-      "image": "/placeholder.svg?height=250&width=400",
+      "image": "/bptp-sco.jpg",
       "features": ["SCO Floors", "Prime Location"]
     },
     {
@@ -87,7 +87,7 @@
       "status": "Under Construction",
       "priceRange": "₹4.80CR",
       "description": "Premium Mixed Development",
-      "image": "/placeholder.svg?height=250&width=400",
+      "image": "/discovery-park.jpg",
       "features": ["Premium Location", "Integrated Development"]
     }
   ],
@@ -100,7 +100,7 @@
       "status": "Ready to Move",
       "priceRange": "₹1.5CR - ₹7CR",
       "description": "Central Market Commercial Spaces",
-      "image": "/placeholder.svg?height=250&width=400",
+      "image": "/capital-central.jpg",
       "features": ["SCO Floors", "Central Location"]
     }
   ],
@@ -113,7 +113,7 @@
       "status": "Ready to Move",
       "priceRange": "₹7,500/sq.yd",
       "description": "Premium Residential Plots",
-      "image": "/placeholder.svg?height=250&width=400",
+      "image": "/mansa-orchids.webp",
       "features": ["Rate: ₹7,500/sq.yd", "Developed Plots"]
     },
     {
@@ -124,7 +124,7 @@
       "status": "Ready to Move",
       "priceRange": "₹9,000/sq.yd",
       "description": "Premium Oak Residences",
-      "image": "/placeholder.svg?height=250&width=400",
+      "image": "/mansha-oak.webp",
       "features": ["Rate: ₹9,000/sq.yd", "Premium Location"]
     },
     {
@@ -135,7 +135,7 @@
       "status": "Ready to Move",
       "priceRange": "₹1.5CR - ₹7CR",
       "description": "Mall Connected Floors",
-      "image": "/placeholder.svg?height=250&width=400",
+      "image": "/mansha-vegas-mall.webp",
       "features": ["Mall Connected", "High Footfall Area"]
     },
     {
@@ -146,7 +146,7 @@
       "status": "Under Construction",
       "priceRange": "₹75,000/sq.yd",
       "description": "Ultra Premium Development",
-      "image": "/placeholder.svg?height=250&width=400",
+      "image": "/mansha-upcoming.webp",
       "features": ["Rate: ₹75,000/sq.yd", "Ultra Premium"]
     }
   ]
