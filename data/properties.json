@@ -28,7 +28,7 @@
       "location": "Sector-86, Faridabad",
       "type": "Residential",
       "status": "Under Construction",
-      "priceRange": "₹35L - ₹2CR",
+      "priceRange": "₹75L - ₹2CR",
       "description": "Modern Flats & Floors",
       "image": "/Omaxe-Heights.jpg",
       "features": ["Flats: ₹35L - ₹60L", "Floors: ₹75L - ₹2CR"]
@@ -80,12 +80,12 @@
       "features": ["SCO Floors", "Prime Location"]
     },
     {
-      "id": "bptp-next-deck",
-      "name": "BPTP Next The Deck & Discovery Park",
+      "id": "bptp-the-deck",
+      "name": "BPTP The Deck & Discovery Park",
       "location": "Faridabad",
       "type": "Mixed Use",
       "status": "Under Construction",
-      "priceRange": "₹4.80CR",
+      "priceRange": "₹3CR - ₹8CR",
       "description": "Premium Mixed Development",
       "image": "/discovery-park.jpg",
       "features": ["Premium Location", "Integrated Development"]
@@ -111,7 +111,7 @@
       "location": "Sector-110, Faridabad",
       "type": "Residential Plots",
       "status": "Ready to Move",
-      "priceRange": "₹7,500/sq.yd",
+      "priceRange": "₹75,000/sq.yd",
       "description": "Premium Residential Plots",
       "image": "/mansa-orchids.webp",
       "features": ["Rate: ₹7,500/sq.yd", "Developed Plots"]
@@ -122,20 +122,20 @@
       "location": "Sector-98, Faridabad",
       "type": "Residential Plots",
       "status": "Ready to Move",
-      "priceRange": "₹9,000/sq.yd",
+      "priceRange": "₹90,000/sq.yd",
       "description": "Premium Oak Residences",
       "image": "/mansha-oak.webp",
       "features": ["Rate: ₹9,000/sq.yd", "Premium Location"]
     },
     {
-      "id": "mansha-vegas-mall",
-      "name": "Mansha VEGAS MALL Floors",
+      "id": "mansha-vegas-street",
+      "name": "Mansha VEGAS Street",
       "location": "Sector-82, Faridabad",
       "type": "Commercial",
       "status": "Ready to Move",
       "priceRange": "₹1.5CR - ₹7CR",
       "description": "Mall Connected Floors",
-      "image": "/mansha-vegas-mall.webp",
+      "image": "/Mansha-Vega_Street.jpg",
       "features": ["Mall Connected", "High Footfall Area"]
     },
     {
