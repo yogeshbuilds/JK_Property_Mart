@@ -15,7 +15,7 @@ export function HeroSection() {
 
       <div className="relative z-10 container mx-auto px-4 h-full flex items-center justify-center">
         <div className="text-center text-white">
-          <h1 className="text-3xl sm:text-4xl md:text-6xl font-bold text-balance mb-2 sm:mb-4 md:mb-6">
+          <h1 className="text-2xl sm:text-3xl md:text-5xl font-bold text-balance mb-2 sm:mb-4 md:mb-6 mt-10">
             Find Your Dream Property
             <span className="block text-yellow-400 mt-2">Find Your Happiness</span>
           </h1>

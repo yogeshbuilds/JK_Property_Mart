@@ -1,5 +1,6 @@
 import Link from "next/link"
 import { MapPin, Phone, Mail, Facebook, Twitter, Instagram, Linkedin } from "lucide-react"
+import Image from "next/image"
 
 export function Footer() {
   return (
@@ -9,8 +10,8 @@ export function Footer() {
           {/* Company Info */}
           <div>
             <div className="flex items-center space-x-2 mb-4">
-              <div className="h-8 w-8 rounded bg-accent flex items-center justify-center">
-                <span className="text-accent-foreground font-bold text-sm">JK</span>
+             <div className="h-16 w-16 md:h-20 md:w-20 flex items-center justify-center">
+              <Image src='/Logo.png' alt="JK Property Mart Logo" width={100} height={100} className="h-12 w-12 md:h-16 md:w-16 object-contain" />
               </div>
               <div className="flex flex-col">
                 <span className="font-bold text-lg leading-none">JK Property Mart</span>
@@ -89,11 +90,11 @@ export function Footer() {
                 <span>+91 98711 75107</span>
               </a>
               <a
-                href="mailto:llcvikash7@gmail.com"
+                href="mailto:jkpropertymart@gmail.com"
                 className="flex items-center space-x-2 opacity-80 hover:opacity-100 transition-opacity"
               >
                 <Mail className="h-4 w-4" />
-                <span>llcvikash7@gmail.com</span>
+                <span>jkpropertymart@gmail.com</span>
               </a>
             </div>
           </div>

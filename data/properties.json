@@ -17,10 +17,10 @@
       "location": "Sector-43, Faridabad",
       "type": "Residential",
       "status": "Ready to Move",
-      "priceRange": "₹1CR - ₹2CR",
+      "priceRange": "₹1CR - ₹2.5CR",
       "description": "Premium Forest Hill Residences",
       "image": "/Omaxe-Hills-Forest.jpg",
-      "features": ["Forest Hill: ₹1CR - ₹2CR"]
+      "features": ["Forest Hill: ₹1CR - ₹2CR", "Forest Spa: ₹3.5CR - ₹8CR"]
     },
     {
       "id": "omaxe-heights",
@@ -98,7 +98,7 @@
       "location": "Faridabad",
       "type": "Commercial",
       "status": "Ready to Move",
-      "priceRange": "₹1.5CR - ₹7CR",
+      "priceRange": "₹75L - ₹7CR",
       "description": "Central Market Commercial Spaces",
       "image": "/capital-central.jpg",
       "features": ["SCO Floors", "Central Location"]
@@ -128,12 +128,12 @@
       "features": ["Rate: ₹9,000/sq.yd", "Premium Location"]
     },
     {
-      "id": "mansha-vegas-street",
-      "name": "Mansha VEGAS Street",
+      "id": "mansha-vega-street",
+      "name": "Mansha VEGA Street",
       "location": "Sector-82, Faridabad",
       "type": "Commercial",
       "status": "Ready to Move",
-      "priceRange": "₹1.5CR - ₹7CR",
+      "priceRange": "₹1CR - ₹7CR",
       "description": "Mall Connected Floors",
       "image": "/Mansha-Vega_Street.jpg",
       "features": ["Mall Connected", "High Footfall Area"]

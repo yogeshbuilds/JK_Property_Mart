@@ -59,11 +59,11 @@ export function Header() {
                     <span>+91 98711 75107</span>
                   </a>
                   <a
-                    href="mailto:llcvikash7@gmail.com"
+                    href="mailto:jkpropertymart@gmail.com"
                     className="flex items-center space-x-2 text-black/90 hover:text-black transition-colors"
                   >
                     <Mail className="h-4 w-4" />
-                    <span>llcvikash7@gmail.com</span>
+                    <span>jkpropertymart@gmail.com</span>
                   </a>
                 </div>
 
@@ -92,9 +92,9 @@ export function Header() {
                             <Phone className="h-4 w-4" />
                             <span>+91 98711 75107</span>
                           </a>
-                          <a href="mailto:llcvikash7@gmail.com" className="flex items-center space-x-3 text-sm py-2">
+                          <a href="mailto:jkpropertymart@gmail.com" className="flex items-center space-x-3 text-sm py-2">
                             <Mail className="h-4 w-4" />
-                            <span>llcvikash7@gmail.com</span>
+                            <span>jkpropertymart@gmail.com</span>
                           </a>
                           <div className="text-xs text-muted-foreground mt-4 py-2 leading-relaxed">
                             JK Property Mart, A-007A, Puri High Street, Sector 81, Faridabad

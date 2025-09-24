@@ -31,7 +31,7 @@ export function ContactSection() {
                 </div>
                 <div className="flex items-center gap-2 text-sm">
                   <Mail className="h-4 w-4" />
-                  <span>llcvikash7@gmail.com</span>
+                  <span>jkpropertymart@gmail.com</span>
                 </div>
                 <div className="flex items-center gap-2 text-sm">
                   <Clock className="h-4 w-4" />
