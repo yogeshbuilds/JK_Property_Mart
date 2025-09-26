@@ -4,6 +4,7 @@ import { PropertyListings } from "@/components/property-listings"
 import { BuildersSection } from "@/components/builders-section"
 import { BlogsSection } from "@/components/blogs-section"
 import { ContactSection } from "@/components/contact-section"
+import { CTASection } from "@/components/cta-section"
 import { Footer } from "@/components/footer"
 import { WhatsAppButton } from "@/components/whatsapp-button"
 
@@ -16,6 +17,7 @@ export default function HomePage() {
       <BuildersSection />
       <BlogsSection />
       <ContactSection />
+      <CTASection />
       <Footer />
       <WhatsAppButton />
     </main>
