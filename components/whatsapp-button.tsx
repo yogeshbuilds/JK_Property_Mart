@@ -1,11 +1,11 @@
 "use client"
 
 export function WhatsAppButton() {
-  const phoneNumber = "919871175107"
+  const phoneNumber = "918813887813"
   
   const handleWhatsAppClick = () => {
     const message =
-      "Hi JK Property Mart! I'm interested in your property services in Faridabad. Can you help me find the right property?"
+      "Hi Royal Green Property! I'm interested in your property services in Faridabad. Can you help me find the right property?"
     const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`
     window.open(whatsappUrl, "_blank")
   }
