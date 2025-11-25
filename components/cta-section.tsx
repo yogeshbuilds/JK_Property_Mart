@@ -3,16 +3,16 @@
 import { Phone, MessageCircle } from "lucide-react"
 
 export function CTASection() {
-  const phoneNumber = "919871175107"
+  const phoneNumber = "918813887813"
   
   const handleCallClick = () => {
-    const callUrl = `tel:${phoneNumber}`
+    const callUrl = `tel:+${phoneNumber}`
     window.location.href = callUrl
   }
 
   const handleWhatsAppClick = () => {
     const message =
-      "Hi JK Property Mart! I'm interested in your property services in Faridabad. Can you help me find the right property?"
+      "Hi Royal Green Property! I'm interested in your property services in Faridabad. Can you help me find the right property?"
     const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`
     window.open(whatsappUrl, "_blank")
   }
@@ -57,7 +57,7 @@ export function CTASection() {
 
           {/* Additional Info */}
           <div className="text-sm opacity-80 space-y-1">
-            <p>📞 <strong>+91 98711 75107</strong> | Available 9 AM - 8 PM</p>
+            <p>📞 <strong>+91 88138 87813</strong> | Available 9 AM - 8 PM</p>
             <p>🏠 20+ Years Experience | 1000+ Happy Customers</p>
             <p>⚡ Quick Response | Free Consultation</p>
           </div>

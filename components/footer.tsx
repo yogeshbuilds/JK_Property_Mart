@@ -11,10 +11,10 @@ export function Footer() {
           <div>
             <div className="flex items-center space-x-2 mb-4">
              <div className="h-16 w-16 md:h-20 md:w-20 flex items-center justify-center">
-              <Image src='/Logo.png' alt="JK Property Mart Logo" width={100} height={100} className="h-12 w-12 md:h-16 md:w-16 object-contain" />
+              <Image src='/Logo.png' alt="Royal Green Property Logo" width={100} height={100} className="h-12 w-12 md:h-16 md:w-16 object-contain" />
               </div>
               <div className="flex flex-col">
-                <span className="font-bold text-lg leading-none">JK Property Mart</span>
+                <span className="font-bold text-lg leading-none">Royal Green Property</span>
                 <span className="text-xs opacity-80">Since 2014</span>
               </div>
             </div>
@@ -80,28 +80,28 @@ export function Footer() {
             <div className="space-y-3 text-sm">
               <div className="flex items-start space-x-2">
                 <MapPin className="h-4 w-4 mt-0.5 opacity-80" />
-                <span className="opacity-80">JK Property Mart, A-007A, Puri High Street, Sector 81, Faridabad</span>
+                <span className="opacity-80">Flat 908, Tower B, Discovery Park Sector 80 Faridabad 121004</span>
               </div>
               <a
-                href="tel:+919871175107"
+                href="tel:+918813887813"
                 className="flex items-center space-x-2 opacity-80 hover:opacity-100 transition-opacity"
               >
                 <Phone className="h-4 w-4" />
-                <span>+91 98711 75107</span>
+                <span>+91 88138 87813</span>
               </a>
               <a
-                href="mailto:jkpropertymart@gmail.com"
+                href="mailto:royalgreenproperty@gmail.com"
                 className="flex items-center space-x-2 opacity-80 hover:opacity-100 transition-opacity"
               >
                 <Mail className="h-4 w-4" />
-                <span>jkpropertymart@gmail.com</span>
+                <span>royalgreenproperty@gmail.com</span>
               </a>
             </div>
           </div>
         </div>
 
         <div className="border-t border-primary-foreground/20 mt-8 pt-8 text-center text-sm opacity-80">
-          <p>&copy; 2025 JK Property Mart. All rights reserved. | Privacy Policy | Terms of Service</p>
+          <p>&copy; 2025 Royal Green Property. All rights reserved. | Privacy Policy | Terms of Service</p>
           <p className="mt-2">
             Developed and maintained by{" "}
             <a

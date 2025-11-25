@@ -11,7 +11,7 @@ export function WhatsAppButton() {
   }
 
   const handleCallClick = () => {
-    const callUrl = `tel:${phoneNumber}`
+    const callUrl = `tel:+${phoneNumber}`
     window.location.href = callUrl
   }
 

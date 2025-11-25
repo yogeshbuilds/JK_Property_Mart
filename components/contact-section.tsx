@@ -24,14 +24,14 @@ export function ContactSection() {
                 </CardTitle>
               </CardHeader>
               <CardContent className="space-y-3">
-                <p className="text-sm">JK Property Mart, A-007A, Puri High Street, Sector 81, Faridabad</p>
+                <p className="text-sm">Flat 908, Tower B, Discovery Park Sector 80 Faridabad 121004</p>
                 <div className="flex items-center gap-2 text-sm">
                   <Phone className="h-4 w-4" />
-                  <span>+91 98711 75107</span>
+                  <span>+91 88138 87813</span>
                 </div>
                 <div className="flex items-center gap-2 text-sm">
                   <Mail className="h-4 w-4" />
-                  <span>jkpropertymart@gmail.com</span>
+                  <span>royalgreenproperty@gmail.com</span>
                 </div>
                 <div className="flex items-center gap-2 text-sm">
                   <Clock className="h-4 w-4" />
@@ -42,7 +42,7 @@ export function ContactSection() {
 
             <Card>
               <CardHeader>
-                <CardTitle>Why Choose JK Property Mart?</CardTitle>
+                <CardTitle>Why Choose Royal Green Property?</CardTitle>
               </CardHeader>
               <CardContent>
                 <ul className="space-y-2 text-sm">

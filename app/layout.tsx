@@ -4,15 +4,15 @@ import "./globals.css"
 import Script from "next/script"
 
 export const metadata: Metadata = {
-  title: "JK Property Mart - Premium Real Estate in Faridabad",
+  title: "Royal Green Property - Premium Real Estate in Faridabad",
   description:
     "Your trusted partner in Faridabad real estate with 20+ years of experience. Residential & Commercial properties from top builders like Omaxe, BPTP, Capital Group & Mansha Group.",
   keywords:
     "Faridabad real estate, property dealer, residential properties, commercial properties, Omaxe, BPTP, Mansha Group, Capital Group",
   icons: {
-    icon: '/jk_property_mart_favicon.ico',
-    shortcut: '/jk_property_mart_favicon.ico',
-    apple: '/jk_property_mart_favicon.ico',
+    icon: '/favicon.ico',
+    shortcut: '/favicon.ico',
+    apple: '/favicon.ico',
   },
 }
 

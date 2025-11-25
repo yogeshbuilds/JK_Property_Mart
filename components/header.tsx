@@ -27,10 +27,10 @@ export function Header() {
               {/* Logo */}
               <Link href="/" className="flex items-center space-x-2">
                  <div className="h-16 w-16 md:h-20 md:w-20 flex items-center justify-center">
-                   <Image src='/Logo.png' alt="JK Property Mart Logo" width={100} height={100} className="h-12 w-12 md:h-16 md:w-16 object-contain" />
+                   <Image src='/Logo.png' alt="Royal Green Property Logo" width={100} height={100} className="h-12 w-12 md:h-16 md:w-16 object-contain" />
                  </div>
                 <div className="flex flex-col">
-                  <span className="font-bold text-lg md:text-xl leading-none text-black">JK PROPERTY MART</span>
+                  <span className="font-bold text-lg md:text-xl leading-none text-black">Royal Green Property</span>
                   <span className="text-xs text-black/80 hidden sm:block">Since 2014</span>
                 </div>
               </Link>
@@ -52,18 +52,18 @@ export function Header() {
               <div className="flex items-center space-x-2 md:space-x-4">
                 <div className="hidden lg:flex items-center space-x-6 text-sm">
                   <a
-                    href="tel:+919871175107"
+                    href="tel:+918813887813"
                     className="flex items-center space-x-2 text-black/90 hover:text-black transition-colors"
                   >
                     <Phone className="h-4 w-4" />
-                    <span>+91 98711 75107</span>
+                    <span>+91 88138 87813</span>
                   </a>
                   <a
-                    href="mailto:jkpropertymart@gmail.com"
+                    href="mailto:royalgreenproperty@gmail.com"
                     className="flex items-center space-x-2 text-black/90 hover:text-black transition-colors"
                   >
                     <Mail className="h-4 w-4" />
-                    <span>jkpropertymart@gmail.com</span>
+                    <span>royalgreenproperty@gmail.com</span>
                   </a>
                 </div>
 
@@ -88,16 +88,16 @@ export function Header() {
                       ))}
                       <div className="pt-6 mt-6 border-t">
                         <div className="flex flex-col space-y-4 px-4">
-                          <a href="tel:+919871175107" className="flex items-center space-x-3 text-sm py-2">
+                          <a href="tel:+918813887813" className="flex items-center space-x-3 text-sm py-2">
                             <Phone className="h-4 w-4" />
-                            <span>+91 98711 75107</span>
+                            <span>+91 88138 87813</span>
                           </a>
-                          <a href="mailto:jkpropertymart@gmail.com" className="flex items-center space-x-3 text-sm py-2">
+                          <a href="mailto:royalgreenproperty@gmail.com" className="flex items-center space-x-3 text-sm py-2">
                             <Mail className="h-4 w-4" />
-                            <span>jkpropertymart@gmail.com</span>
+                            <span>royalgreenproperty@gmail.com</span>
                           </a>
                           <div className="text-xs text-muted-foreground mt-4 py-2 leading-relaxed">
-                            JK Property Mart, A-007A, Puri High Street, Sector 81, Faridabad
+                            Flat 908, Tower B, Discovery Park Sector 80 Faridabad 121004
                           </div>
                         </div>
                       </div>
