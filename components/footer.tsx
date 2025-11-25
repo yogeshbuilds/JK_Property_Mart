@@ -90,11 +90,11 @@ export function Footer() {
                 <span>+91 88138 87813</span>
               </a>
               <a
-                href="mailto:royalgreenproperty@gmail.com"
+                href="mailto:propertyroyalgreen@gmail.com"
                 className="flex items-center space-x-2 opacity-80 hover:opacity-100 transition-opacity"
               >
                 <Mail className="h-4 w-4" />
-                <span>royalgreenproperty@gmail.com</span>
+                <span>propertyroyalgreen@gmail.com</span>
               </a>
             </div>
           </div>

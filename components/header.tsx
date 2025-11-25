@@ -59,11 +59,11 @@ export function Header() {
                     <span>+91 88138 87813</span>
                   </a>
                   <a
-                    href="mailto:royalgreenproperty@gmail.com"
+                    href="mailto:propertyroyalgreen@gmail.com"
                     className="flex items-center space-x-2 text-black/90 hover:text-black transition-colors"
                   >
                     <Mail className="h-4 w-4" />
-                    <span>royalgreenproperty@gmail.com</span>
+                    <span>propertyroyalgreen@gmail.com</span>
                   </a>
                 </div>
 
@@ -92,9 +92,9 @@ export function Header() {
                             <Phone className="h-4 w-4" />
                             <span>+91 88138 87813</span>
                           </a>
-                          <a href="mailto:royalgreenproperty@gmail.com" className="flex items-center space-x-3 text-sm py-2">
+                          <a href="mailto:propertyroyalgreen@gmail.com" className="flex items-center space-x-3 text-sm py-2">
                             <Mail className="h-4 w-4" />
-                            <span>royalgreenproperty@gmail.com</span>
+                            <span>propertyroyalgreen@gmail.com</span>
                           </a>
                           <div className="text-xs text-muted-foreground mt-4 py-2 leading-relaxed">
                             Flat 908, Tower B, Discovery Park Sector 80 Faridabad 121004
