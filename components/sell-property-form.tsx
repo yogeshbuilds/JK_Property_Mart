@@ -137,10 +137,10 @@ export function SellPropertyForm() {
                 <SelectValue placeholder="Select property type" />
               </SelectTrigger>
               <SelectContent>
-                <SelectItem value="commercial">Commercial Property</SelectItem>
-                <SelectItem value="villa">SEO</SelectItem>
-                <SelectItem value="plot">Plot</SelectItem>
-                <SelectItem value="flat">Flat</SelectItem>
+                <SelectItem value="Commercial">Commercial Property</SelectItem>
+                <SelectItem value="SEO">SEO</SelectItem>
+                <SelectItem value="Plot">Plot</SelectItem>
+                <SelectItem value="Flat">Flat</SelectItem>
                 
               </SelectContent>
             </Select>
