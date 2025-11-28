@@ -1,9 +1,8 @@
+import { SellPropertyForm } from "@/components/sell-property-form"
+
 export function HeroSection() {
   return (
-<section
-  id="home"
-  className="relative h-[70vh] overflow-hidden"
->
+    <section id="home" className="relative h-[70vh] overflow-hidden">
       <div className="absolute inset-0">
         <img
           src="/faridabad-city-skyline-with-modern-buildings-and-g.jpg"
@@ -23,6 +22,14 @@ export function HeroSection() {
             With 20 years of experience in Faridabad real estate, we help you discover the perfect residential and
             commercial properties.
           </p>
+          <div className="mt-8 flex flex-col items-center gap-3 text-white">
+            <p className="text-base md:text-lg text-white/90">
+              Need to sell quickly? Talk to our seller success team right away.
+            </p>
+            <div className="w-full max-w-sm">
+              <SellPropertyForm />
+            </div>
+          </div>
         </div>
       </div>
     </section>

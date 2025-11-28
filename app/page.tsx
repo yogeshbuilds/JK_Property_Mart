@@ -7,6 +7,7 @@ import { ContactSection } from "@/components/contact-section"
 import { CTASection } from "@/components/cta-section"
 import { Footer } from "@/components/footer"
 import { WhatsAppButton } from "@/components/whatsapp-button"
+import { LookingForPropertyForm } from "@/components/looking-for-property-form"
 
 export default function HomePage() {
   return (
@@ -20,6 +21,7 @@ export default function HomePage() {
       <CTASection />
       <Footer />
       <WhatsAppButton />
+      <LookingForPropertyForm />
     </main>
   )
 }

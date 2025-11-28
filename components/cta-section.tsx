@@ -1,6 +1,8 @@
 "use client"
 
 import { Phone, MessageCircle } from "lucide-react"
+import { SellPropertyForm } from "@/components/sell-property-form"
+import { LookingForPropertyForm } from "@/components/looking-for-property-form"
 
 export function CTASection() {
   const phoneNumber = "918813887813"
@@ -53,6 +55,11 @@ export function CTASection() {
               <MessageCircle className="h-6 w-6" />
               WhatsApp Us
             </button>
+
+            {/* Find Property Button */}
+            <div className="min-w-[200px]">
+              <LookingForPropertyForm showTrigger autoOpen={false} />
+            </div>
           </div>
 
           {/* Additional Info */}
