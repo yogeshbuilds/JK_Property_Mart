@@ -9,11 +9,7 @@ export const metadata: Metadata = {
     "Your trusted partner in Faridabad real estate with 20+ years of experience. Residential & Commercial properties from top builders like Omaxe, BPTP, Capital Group & Mansha Group.",
   keywords:
     "Faridabad real estate, property dealer, residential properties, commercial properties, Omaxe, BPTP, Mansha Group, Capital Group",
-  icons: {
-    icon: '/favicon.ico',
-    shortcut: '/favicon.ico',
-    apple: '/favicon.ico',
-  },
+    generator: 'v0.app'
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
